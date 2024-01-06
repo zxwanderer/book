@@ -1,0 +1,6 @@
+[book]
+authors = ["Alex Pol"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Some ZX Spectrum Stuff"
