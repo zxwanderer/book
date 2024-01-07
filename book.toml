@@ -2,7 +2,7 @@
 authors = ["Alex Pol"]
 language = "en"
 multilingual = false
-src = "src"
+src = "text"
 title = "Some ZX Spectrum Stuff"
 
 [output.html]
